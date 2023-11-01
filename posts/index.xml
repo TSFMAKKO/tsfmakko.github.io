@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tsfmakko的blog</title>
+    <link>https://tsfmakko.github.io/posts/</link>
+    <description>Recent content in Posts on tsfmakko的blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2008–2019, tsfmakko and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 01 Nov 2023 13:02:58 +0800</lastBuildDate><atom:link href="https://tsfmakko.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇blog</title>
+      <link>https://tsfmakko.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Nov 2023 13:02:58 +0800</pubDate>
+      
+      <guid>https://tsfmakko.github.io/posts/my-first-post/</guid>
+      <description>這是我的第一篇blog 這是我的第一篇blog
+個人網站連結</description>
+    </item>
+    
+  </channel>
+</rss>
